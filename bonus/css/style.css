@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    height: 180px;
+    position: relative;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+#logo-thebooleaner{
+    position: absolute;
+    width: 250px;
+    top: 100px;
+    left: 10%;
+
+}
+
+.description{
+    margin-top: 20px;
+}
+
+h4{
+    color: grey;
+}
+
+#txt-thebooleaner{
+    color: red;
+}
+
+ul{
+    margin: 20px;
+}
+
+.txt-background-yellow{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+}
+
+.dimension-column{
+    width: 20%;
+}
+
+.first-row{
+    background-color: aqua;
+}
+
+.body-row{
+    background-color: aquamarine;
+}
+
+footer{
+    margin-top: 30px;
+    color: grey;
+}
+
+.desc-img-footer{
+    margin: 10px;
+}
+
+.img-footer{
+    width: 312px;
+    height: 208px;
+    color: white;
+    margin-top: 10px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+}
