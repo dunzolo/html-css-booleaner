@@ -32,8 +32,16 @@ ul{
     margin: 20px;
 }
 
-span{
+#txt-background-yellow{
     background-color: yellow;
+}
+
+table{
+    width: 100%;
+}
+
+.dimension-column{
+    width: 20%;
 }
 
 .first-row{
