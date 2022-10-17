@@ -15,3 +15,27 @@ header{
     width: 250px;
     margin-top: 100px;
 }
+
+.description{
+    margin-top: 20px;
+}
+
+h4{
+    color: grey;
+}
+
+span{
+    color: red;
+}
+
+ul{
+    margin: 20px;
+}
+
+.first-row{
+    background-color: aqua;
+}
+
+.body-row{
+    background-color: aquamarine;
+}
