@@ -24,12 +24,16 @@ h4{
     color: grey;
 }
 
-span{
+#txt-thebooleaner{
     color: red;
 }
 
 ul{
     margin: 20px;
+}
+
+span{
+    background-color: yellow;
 }
 
 .first-row{
