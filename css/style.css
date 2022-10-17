@@ -6,19 +6,12 @@
 
 header{
     background-color: cornflowerblue;
-    background-image: url(img/pattern.png);
-    background-size: cover;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    height: 180px;
 }
 
 #logo-thebooleaner{
-    width: 200px;
-    margin-bottom: 10px;
-}
-
-h4{
-    color: grey;
-}
-
-span{
-    color: aqua;
+    width: 250px;
+    margin-top: 100px;
 }
