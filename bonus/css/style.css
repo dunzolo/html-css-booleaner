@@ -4,70 +4,77 @@
     box-sizing: border-box;
 }
 
-header{
-    background-color: cornflowerblue;
-    background-image: url(../img/pattern.png);
-    background-repeat: repeat-x;
-    height: 180px;
-    position: relative;
-}
-
 .container{
     width: 80%;
     margin: auto;
-}
-
-#logo-thebooleaner{
-    position: absolute;
-    width: 250px;
-    top: 100px;
-    left: 10%;
-
-}
-
-.description{
-    margin-top: 20px;
-}
-
-h4{
-    color: grey;
-}
-
-#txt-thebooleaner{
-    color: red;
-}
-
-ul{
-    margin: 20px;
 }
 
 .txt-background-yellow{
     background-color: yellow;
 }
 
+/* inizio header */
+header{
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    height: 100px;
+}
+
+#logo-thebooleaner{
+    height: 50px;
+    margin-top: 50px;
+}
+/* fine header */
+
+/* inizio main */
+h4{
+    color: grey;
+}
+
+#txt-thebooleaner{
+    color:aqua;
+}
+
+.img-tim{
+    margin: 20px 0px;
+}
+
+.description{
+    margin-top: 20px;
+}
+
+ul{
+    margin: 20px;
+}
+
 table{
-    width: 100%;
+    border-spacing: 0;
+    text-align: left;
 }
 
 .dimension-column{
-    width: 20%;
+    width: 50%;
 }
 
-.first-row{
+thead{
     background-color: aqua;
+    color: white;
 }
 
 .body-row{
     background-color: aquamarine;
 }
+/* fine main */
 
+/* inizio footer */
 footer{
     margin-top: 30px;
     color: grey;
 }
 
 .desc-img-footer{
-    margin: 10px;
+    padding: 10px 20px;
 }
 
 .img-footer{
